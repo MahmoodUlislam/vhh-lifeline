@@ -1,6 +1,6 @@
 export default {
-  appId: "com.vhh.lifeline", // Change this to your desired app ID
-  appName: "My Quasar App",
+  appId: "5b691a20", // Change this to your desired app ID
+  appName: "LifeLine-test",
   webDir: "dist/spa",
   bundledWebRuntime: false,
 };
