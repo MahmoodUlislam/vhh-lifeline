@@ -1,0 +1,5 @@
+{
+  "appId": "com.vhh.lifelinetest",
+  "appName": "lifeline-test",
+  "webDir": "dist/spa"
+}
